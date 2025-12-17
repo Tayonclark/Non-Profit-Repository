@@ -1,0 +1,15 @@
+[
+    {
+        "id": "p_1",
+        "title": "Obituary Workshop",
+        "summary": "A Workshop that parents can bond and share about their children",
+        "Image": "/images/Workshop.jpg"
+    },
+    {   
+        "id": "p_2",
+        "title": "Parent Greif Program",
+        "summary": "A Weekly gathering of parents that are grieving",
+        "Image": "/images/parent.jpg"
+
+    }
+]
